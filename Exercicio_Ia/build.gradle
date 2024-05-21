@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.myapp'
+version = '1.0'
+
+sourceCompatibility = '11'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'org.apache.httpcomponents:httpclient:4.5.13'
+}
+
+application {
+    mainClassName = 'com.myapp.Main'
+}
+
