@@ -1,3 +1,8 @@
+                    **********************************************************
+                    * Desenvolvimento_de_Sistema_com_Auxlio_de_IA_Generativa *
+                    **********************************************************
+
+
 Os códigos presentes na pasta "Exercicio_Ia" foram realizados com o auxílio da Inteligência Artificial, conforme solicitado no exercício. Já os códigos na pasta "Exercicio_Sem_Ia" foram desenvolvidos sem o auxílio da IA.
 
 Conclusão
